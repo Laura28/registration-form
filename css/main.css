@@ -41,4 +41,8 @@ div {
     padding: 1rem;
   }
 
+  p {
+    padding-right: 1rem;
+  }
+
 }
